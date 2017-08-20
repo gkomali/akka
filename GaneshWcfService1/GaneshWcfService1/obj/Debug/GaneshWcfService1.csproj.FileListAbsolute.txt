@@ -1,0 +1,10 @@
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\GaneshWcfService1.dll.config
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\GaneshWcfService1.dll
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\GaneshWcfService1.pdb
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\obj\Debug\GaneshWcfService1.csprojResolveAssemblyReference.cache
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\obj\Debug\GaneshWcfService1.dll
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\obj\Debug\GaneshWcfService1.pdb
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\Akka.dll
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\AkkaNetDemo.dll
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\Newtonsoft.Json.dll
+c:\users\vishnu\documents\visual studio 2017\Projects\GaneshWcfService1\GaneshWcfService1\bin\AkkaNetDemo.pdb

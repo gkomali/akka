@@ -1,0 +1,13 @@
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\AkkaNetDemo.dll
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\AkkaNetDemo.pdb
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\Akka.dll
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\Akka.xml
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\obj\Debug\AkkaNetDemo.dll
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\obj\Debug\AkkaNetDemo.pdb
+C:\Users\Vishnu\Downloads\AkkaNetDemo-master\AkkaNetDemo-master\AkkaNetDemo\obj\Debug\AkkaNetDemo.csprojResolveAssemblyReference.cache
+C:\Users\Vishnu\Documents\Visual Studio 2017\Projects\AkkaNetDemo\bin\Debug\AkkaNetDemo.dll
+C:\Users\Vishnu\Documents\Visual Studio 2017\Projects\AkkaNetDemo\bin\Debug\AkkaNetDemo.pdb
+C:\Users\Vishnu\Documents\Visual Studio 2017\Projects\AkkaNetDemo\obj\Debug\AkkaNetDemo.dll
+C:\Users\Vishnu\Documents\Visual Studio 2017\Projects\AkkaNetDemo\obj\Debug\AkkaNetDemo.pdb
